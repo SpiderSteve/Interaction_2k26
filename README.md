@@ -10,7 +10,7 @@ This is a Link→ [The Word](https://www.google.com/search?q=67&rlz=1C5CHFA_enUS
 
 ## Images 
 
-Hey check out this ##cool## dog, Riley!
+Hey check out this **cool** dog, Riley!
 
 ![image of a dog](https://www.denverpost.com/wp-content/uploads/2016/04/20131021_045641_OLFE26AHGAMEDOG2.jpg?w=620)
 
