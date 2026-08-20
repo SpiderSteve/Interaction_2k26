@@ -16,4 +16,4 @@ Hey check out this cool dog, Riley!
 
 ### Journal Example 
 
-Here is my journal 
+Here is my journal -> [test](journal/8.20.26.md)
